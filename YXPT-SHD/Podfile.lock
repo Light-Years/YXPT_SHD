@@ -1,0 +1,75 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - BaiduMapKit (3.3.0)
+  - IQKeyboardManager (4.0.9)
+  - JSONKit (1.5pre)
+  - Masonry (0.6.4)
+  - MJExtension (2.5.16)
+  - MJRefresh (3.0.8)
+  - RDVTabBarController (1.1.9)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SVProgressHUD (2.1.2)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - BaiduMapKit
+  - IQKeyboardManager
+  - JSONKit (~> 1.5pre)
+  - Masonry (~> 0.6.2)
+  - MJExtension (~> 2.5.3)
+  - MJRefresh (~> 3.0.7)
+  - RDVTabBarController (~> 1.1.9)
+  - ReactiveCocoa (~> 2.5)
+  - SDWebImage (~> 3.7.3)
+  - SVProgressHUD (~> 2.0-beta)
+  - YYKit
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  BaiduMapKit: 6517f84bdca032170ee9da39985bb64eba8ed900
+  IQKeyboardManager: 322c7405df3eb5f7e50dede32ea937bf3d4364e0
+  JSONKit: bae313ce6a6c444f40489a6c0b023f399888871f
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MJExtension: b8c1321a77d91bcc007b94d38cbf5383c95ea30e
+  MJRefresh: fafde8f18f4afd66b434331a9beb67a6c0264056
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 5bcd20653814f6b38d409e785a040e49129ec387
+
+COCOAPODS: 1.2.1
